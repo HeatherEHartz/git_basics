@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+	color: grey;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	font-size: 24pt;
+	padding-right: 10pt;
+
+}
+
+ul {
+	float: right;
+}
